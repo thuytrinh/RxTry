@@ -1,0 +1,22 @@
+# OS X files
+.DS_Store
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+
+*.iml
+out/
+
+## Directory-based project format:
+.idea/
+
+## File-based project format:
+*.ipr
+*.iws
+
+# Android Studio files
+local.properties
+.gradle
+build/
+
+# Crashlytics files
+com_crashlytics_export_strings.xml
