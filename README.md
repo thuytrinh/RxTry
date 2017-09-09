@@ -1,6 +1,12 @@
 # RxTry
 
+[![](https://jitpack.io/v/thuytrinh/RxTry.svg)](https://jitpack.io/#thuytrinh/RxTry)
+
 `Try<T>` computation for RxJava
+
+## Usage
+
+Go to [JitPack](https://jitpack.io/#thuytrinh/RxTry). Then click `Get it` on the latest version.
 
 ## What
 
